@@ -1,1 +1,3 @@
-Never push emacs file
+
+#all emacs files having ~ would be ignored
+*~ ~
