@@ -1,2 +1,2 @@
-My first readme
-Updating mode
+My first readme updated
+
